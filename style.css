@@ -1,0 +1,131 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Anuphan', sans-serif;
+    line-height: 2;
+}
+h1{
+    margin: 0;
+    margin-top: 30px;
+    font-size: 3rem;
+    color:#AA77FF;
+}
+h2{
+    font-size: 2rem;
+}
+a:hover{
+    color: white;
+}
+.top_container{
+    background-color: #C9EEFF;
+    margin: 0px;
+    padding: 30px;
+
+}
+.name {
+    margin-top: 8%;
+    font-family:'Sacramento',cursive;
+    font-size: 4.5rem;
+    margin-bottom: 0;
+    
+}
+.profession{
+    margin-top: 0;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-style: italic;
+    
+}
+
+.cloud{
+    width: 20%;
+    position: absolute;
+}
+.cloud-top{
+    right:10%;
+}
+.cloud-bottom{
+    left: 12%;
+    top:26%;
+}
+.middle_container{
+    
+   width:50%;
+   display: inline-block;
+    
+    
+}
+.pfp{
+    width: 30%;
+   
+    margin-top: 40px;
+}
+.hello{
+    font-style: italic;
+}
+.about{
+    margin-top: 30px;
+    font-size: 2rem;
+}
+.skill{
+    text-align:left;
+    margin-top: 10%;
+    
+}
+.skills{
+    margin-bottom: 70px;
+}
+.skill-img{
+    width:20%;
+    float:left;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+}
+.info{
+    font-size: 1.4rem;
+}
+.mail{
+    margin-top: 50px;
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight:bold;
+    color:#AA77FF;
+    background-color: #97DEFF;
+    border-color: #97DEFF;
+    border-radius: 8px;
+    padding : 5px 14px ;
+    
+}
+.mail:hover{
+    background-color:#62CDFF;
+}
+
+.socials{
+   
+    margin-right: 25px;
+    text-decoration: none;
+    font-size: 2rem;
+}
+.social_img{
+    width:25px;
+    padding-left: 10px;
+}
+.bottom_container{
+    background-color:#62CDFF;
+    padding: 50px;
+}
+.links_socials{
+    margin-bottom: 50px;
+}
+.copyright{
+    color: #C9EEFF;
+}
+.dotted{
+    border-top: dotted white 6px;
+    margin: 10px auto;
+    width: 5%;
+    
+    
+}
